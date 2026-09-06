@@ -15,5 +15,6 @@ Don't run this on your instrument workstation obviously, transfer the files you 
 | `ftboot_unpack.py` | Decode + gzip-validate the four `ftboot*` firmware images (position mask → gzip → tar/kernel). `ftboot_unpack.py SRC_DIR OUT_DIR`. extracts the firmware that runs on instrument|
 | `run_full_extraction.sh` | One-shot driver: runs `ftboot_unpack.py`, extracts the tars, decompiles ftboot3 `pyinst/*.pyc`, writes inventories/manifest. `SRC OUT LABEL`. runs entire workflow|
 
-###Dependencies
- uncompyle6
+#Dependencies
+
+uncompyle6
