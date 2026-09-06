@@ -4,7 +4,7 @@ utilities to extract readable firmware and scripts from your instrument. Will ex
 
 This is very helpful for creating interoperable software to run instruments as allowed by §1201(f) since you can see the actual scripts and python running on the instrument.
 
-Don't run this on your instrument workstation obviously, transfer the files you are interested in off first. I am not uploading the files or results of these tools. Examining source for the purposes of interoperability is permissible but this does not extend to sharing.
+Don't run this on your instrument workstation obviously, transfer the files you are interested in off first. I am not uploading the files or results of these tools.  §1201(f) permits making both the information and the circumvention means available to others, provided it's solely to enable interoperability of an independently created program and doesn't otherwise infringe.
 
 #what each script does
 
